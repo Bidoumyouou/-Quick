@@ -1,0 +1,4 @@
+﻿  GameMgr.cpp
+c:\users\bidoumyouou\documents\ねるねるねるねquick\バックアップ\ねるねるねるねquick\微動明王プロジェクトver2\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  0225proj.vcxproj -> C:\Users\Bidoumyouou\Documents\ねるねるねるねQuick\バックアップ\ねるねるねるねQuick\微動明王プロジェクトver2\Debug\0225proj.exe
+  0225proj.vcxproj -> C:\Users\Bidoumyouou\Documents\ねるねるねるねQuick\バックアップ\ねるねるねるねQuick\微動明王プロジェクトver2\Debug\0225proj.pdb (Full PDB)
