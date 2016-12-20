@@ -65,9 +65,9 @@ void ResouceLoad(){
 		printfDx("ERROR");
 	}
 	
-	G_IMAGE.back = LoadGraph("picture/背景マップ2.bmp");
+	G_IMAGE.back = LoadGraph("picture/backmap2.bmp");
 	G_IMAGE.Button = LoadGraph("picture/Button.png");
-	G_IMAGE.logo = LoadGraph("picture/もしねる.png");
+	G_IMAGE.logo = LoadGraph("picture/logo.png");
 	LoadDivGraph("picture/UI.png", 16, 8, 2, 40, 40, G_IMAGE.UI);
 	LoadDivGraph("picture/text.png", 8, 1, 8, 128, 20, G_IMAGE.text);
 	LoadDivGraph("picture/conbair.png", 256, 16, 16, 32, 32, G_IMAGE.conbair);
@@ -79,8 +79,8 @@ void ResouceLoad(){
 	LoadDivGraph("picture/recipe.png", 4, 1, 4, 288, 32, G_IMAGE.recipe);
 
 
-	G_IMAGE_TITLE[0] = LoadGraph("picture/タイトル用.bmp");
-	G_IMAGE_TITLE[1] = LoadGraph("picture/タイトル用.bmp"); 
+	G_IMAGE_TITLE[0] = LoadGraph("picture/fortitle.bmp");
+	G_IMAGE_TITLE[1] = LoadGraph("picture/fortitle.bmp"); 
 
 
 	LoadDivGraph("picture/item.png", 64, 8, 8, 32, 32, G_IMAGE_ITEM);
@@ -88,7 +88,7 @@ void ResouceLoad(){
 	
 	LoadDivGraph("picture/UI.png", 16, 8, 2, 40, 40, G_IMAGE_UI);
 	//LoadDivGraph("", , , , , , G_IMAGE_);
-	G_MUSIC_00 = LoadSoundMem("sound/music/ピュアヒューリーズ.mp3");//ステージ選択
+	//G_MUSIC_00 = LoadSoundMem("sound/music/ピュアヒューリーズ.mp3");//ステージ選択
 }
 
 //少し間借りしてサウンド管理室

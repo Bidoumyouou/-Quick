@@ -1,4 +1,59 @@
-﻿  GameMgr.cpp
-c:\users\bidoumyouou\documents\ねるねるねるねquick\バックアップ\ねるねるねるねquick\微動明王プロジェクトver2\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
-  0225proj.vcxproj -> C:\Users\Bidoumyouou\Documents\ねるねるねるねQuick\バックアップ\ねるねるねるねQuick\微動明王プロジェクトver2\Debug\0225proj.exe
-  0225proj.vcxproj -> C:\Users\Bidoumyouou\Documents\ねるねるねるねQuick\バックアップ\ねるねるねるねQuick\微動明王プロジェクトver2\Debug\0225proj.pdb (Full PDB)
+﻿  Title.cpp
+  Test1.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\test1.cpp(27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\test1.cpp(28): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Test.cpp
+  Stone.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\stone.cpp(30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\stone.cpp(31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  StateBase.cpp
+  state.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  SpotBehave.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  Spot.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  Result.cpp
+  ReSource.cpp
+  Pod.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\pod.cpp(350): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\pod.cpp(363): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  Player.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\player.cpp(65): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\player.cpp(66): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  phadeout.cpp
+  ObjectBase.cpp
+  Message.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.cpp(4): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  main.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  key.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\key.cpp(29): warning C4101: 'tmpMouse': ローカル変数は 1 度も使われていません。
+  ItemList.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  Item.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  GV.cpp
+  コードを生成中...
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\item.cpp(87): warning C4715: 'Item::Inspect': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  GameMgr_class.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  GameMgr.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  GameArchive.cpp
+  Cursol.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\cursol.cpp(18): warning C4101: 's': ローカル変数は 1 度も使われていません。
+  Couple_Killer.cpp
+  Customer.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  CommonClass.cpp
+  class.cpp
+  Cbase.cpp
+  Belt.cpp
+c:\users\bidoumyouou\documents\git\nel_quick\0225proj\message.h(21): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  コードを生成中...
+  0225proj.vcxproj -> C:\Users\Bidoumyouou\Documents\Git\Nel_Quick\Debug\0225proj.exe
+  0225proj.vcxproj -> C:\Users\Bidoumyouou\Documents\Git\Nel_Quick\Debug\0225proj.pdb (Full PDB)

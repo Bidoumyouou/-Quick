@@ -39,6 +39,9 @@ ver1.00 2015/5/8
 　ザ・マッチメイカァズ【http://osabisi.sakura.ne.jp/m2/】
 　魔王魂【http://maoudamashii.jokersounds.com/】
 
+6.このゲームの制作にはDXライブラリ（http://dxlib.o.oo7.jp/様よりダウンロード可）を
+使用しています。プロジェクトのビルドの際には
+Cドライブ直下に同梱されているDxLib_VCのフォルダをおいてください
 　libjpeg　Copyright (C) 1991-2013, Thomas G. Lane, Guido Vollbeding.
 
 
